@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **NiCoCh0c0/NiCoCh0C0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
